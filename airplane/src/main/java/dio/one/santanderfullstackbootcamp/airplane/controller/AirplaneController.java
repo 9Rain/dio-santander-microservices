@@ -1,6 +1,6 @@
 package dio.one.santanderfullstackbootcamp.airplane.controller;
 
-import dio.one.santanderfullstackbootcamp.airplane.controller.model.Airplane;
+import dio.one.santanderfullstackbootcamp.airplane.model.Airplane;
 import dio.one.santanderfullstackbootcamp.airplane.repository.AirplaneRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

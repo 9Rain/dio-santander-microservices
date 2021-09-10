@@ -1,4 +1,4 @@
-package dio.one.santanderfullstackbootcamp.airplane.controller.model;
+package dio.one.santanderfullstackbootcamp.airplane.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
