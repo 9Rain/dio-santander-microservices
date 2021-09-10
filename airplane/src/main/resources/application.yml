@@ -1,0 +1,12 @@
+spring:
+
+  application:
+    name: airplane
+
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+  h2:
+    console:
+      path: /h2
